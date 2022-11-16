@@ -11,6 +11,7 @@
             return false;
         }
 
+        //Reder vỉews
         public function render($view, $data=[]){
             // Đổi key của mảng thành biến
             extract($data);
