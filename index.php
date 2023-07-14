@@ -3,8 +3,8 @@
     require_once "bootstrap.php";
     $app = new App();
 
-    // echo "<pre>";
-    // Hiển thị server
+    echo "<pre>";
+    //Hiển thị server
     // print_r($_SERVER);
-    // echo "<pre>";
+    echo "<pre>";
 ?>
